@@ -1,0 +1,1 @@
+Drop .ttf/.otf files here (e.g. GoogleSansFlex.ttf). They show up in Settings > Font.
